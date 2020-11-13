@@ -3,14 +3,14 @@
     letter-spacing: 2px;
 }
 
-html,body,.container{
+html,body , .container{
     width: 100%;
     margin: 0;
     padding: 0;
 
 }
 
-/----------------------------------/
+/*----------------------------------*/
 
 .starter{
     width: 100%;
@@ -21,11 +21,11 @@ html,body,.container{
     background-position: center;
 }
 
-.nav{
+.navi{
     text-align: center;
 }
 
 a{
-    color: black;
+    color: white;
     text-decoration: none;
 }
